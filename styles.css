@@ -5,15 +5,14 @@
 }
 
 .nama {
-    font-family: sans-serif;
+    font-family: 'Aref Ruqaa';
     letter-spacing: 1px;
     font-size: 30px;
     line-height: 55px;
     font-weight: bold;
 }
 body {
-    font-family: 'Helvetica Neue',
-    sans-serif;
+    font-family: 'Aref Ruqaa';
 
 }
 
@@ -59,7 +58,7 @@ body {
 .mail-link {
     font-size: 17px;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     font-weight: 700px;
     font-weight: bold;
 }
